@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="sigar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/sigar-bin/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/docs/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/sigar-bin/lib" />
+      <root url="file://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/sigar-bin/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/hyperic-sigar-1.6.4/bindings/java/examples" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,2 @@
+set path=%path%;C:\Program Files\Java\jdk1.8.0_111\bin
+javac src\com\projects\BSTStorm\*.java

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fortifyAnnotations">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/fortifyAnnotations" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/fortifyAnnotations" recursive="false" />
+  </library>
+</component>

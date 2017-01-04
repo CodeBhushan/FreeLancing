@@ -1,0 +1,1 @@
+java -cp ./src com.projects.BSTStorm.Project4 inputFile.txt

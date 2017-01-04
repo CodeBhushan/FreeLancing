@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="servlet-spec">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/servlet-spec" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/servlet-spec" recursive="false" />
+  </library>
+</component>

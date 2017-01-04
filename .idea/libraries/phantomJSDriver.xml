@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="phantomJSDriver">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/phantomJSDriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/phantomJSDriver" recursive="false" />
+  </library>
+</component>
